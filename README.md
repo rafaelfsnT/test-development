@@ -1,5 +1,4 @@
 # Teste Técnico – Desenvolvimento de API e Cliente de Consumo
-### Nessa documentação irei abordar como foi meu desenvolvimento sobre a API de pesquisas
 ***Desenvolvido por: Rafael Fassina dos Santos***
 ## Configurando o Backend
 Para realizar essa API, eu utilizei como meu "backend", o NodeJS, que já tenho mais familiaridade com o JavaScript, do que com outras linguagens de programação como Java, PHP, Python, entre outras.
